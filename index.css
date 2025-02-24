@@ -72,6 +72,17 @@ p {
     color: #555;
 }
 
+/* Gameplay Preview */
+.gameplay-preview {
+    margin: 2rem 0;
+    text-align: center;
+}
+
+.gameplay-image {
+    max-width: 100%;
+    height: auto;
+}
+
 /* услуги */
 .service-section {
     margin: 2rem 0;
