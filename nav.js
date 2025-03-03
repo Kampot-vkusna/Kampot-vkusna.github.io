@@ -32,3 +32,10 @@ nav=` <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <li><a href="contacts.html">Контакты</a></li>
     </ul>
 </nav>`;
+
+    //   console.log(x);  // выводим в консоль
+        //   document.getElementById() // получаем элемент
+        //   element.innerHTML =
+
+        var nav_element = document.getElementById("nav_container");
+        nav_element.innerHTML = nav;//nav переменная из файла nav.js
