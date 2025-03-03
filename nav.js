@@ -8,13 +8,16 @@ nav=` <nav class="navbar navbar-expand-lg bg-body-tertiary">
       <div class="collapse navbar-collapse" id="navbarText">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
+            <a class="nav-link active" aria-current="page" href="index.html">Главная</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Features</a>
+            <a class="nav-link" href="contacts.html">Контакты</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Pricing</a>
+            <a class="nav-link" href="about.html">О нас</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="services.html">Услуги</a>
           </li>
         </ul>
         <span class="navbar-text">
@@ -22,16 +25,7 @@ nav=` <nav class="navbar navbar-expand-lg bg-body-tertiary">
         </span>
       </div>
     </div>
-  </nav>
-<nav class="navbar">
-    <ul class="nav-list">
-        <li><a href="index.html">Главная 0</a></li>
-        <li><a href="index.html">Главная</a></li>
-        <li><a href="about.html">О нас</a></li>
-        <li><a href="services.html">Услуги</a></li>
-        <li><a href="contacts.html">Контакты</a></li>
-    </ul>
-</nav>`;
+  </nav>`;
 
     //   console.log(x);  // выводим в консоль
         //   document.getElementById() // получаем элемент
