@@ -19,6 +19,9 @@ nav=` <nav class="navbar navbar-expand-lg bg-body-tertiary">
           <li class="nav-item">
             <a class="nav-link" href="services.html">Услуги</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="test.html">Тестовый полигон</a>
+          </li>
         </ul>
         <span class="navbar-text">
           смешнявка
